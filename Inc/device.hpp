@@ -12,9 +12,9 @@
 #include <cstring>
 
 
-#include "../../utils/stack.hpp"
-#include "../../interfaces/output_pin.hpp"
-#include "../../interfaces/receive_transmitter.hpp"
+#include "../utils/stack.hpp"
+#include "../interfaces/output_pin.hpp"
+#include "../interfaces/receive_transmitter.hpp"
 #include "commands.hpp"
 #include "defines.hpp"
 #include "masks.hpp"
